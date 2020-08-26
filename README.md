@@ -7,8 +7,7 @@
 </p>
 
 ## 简介
-mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。
-涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+mall学习教程，架构、业务、技术要点全方位解析。mall项目（39k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
 
 ## 项目地址
 - 后台项目：[https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
@@ -68,6 +67,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [SpringBoot中处理校验逻辑的两种方式，真的很机智！](https://juejin.im/post/5e6636da6fb9a07cb24aaf00)
 - [使用Redis+AOP优化权限管理功能，这波操作贼爽！](https://juejin.im/post/5e78b96b6fb9a07cb83e4a10)
 - [Elasticsearch项目实战，商品搜索功能设计与实现！](https://juejin.im/post/5e94587f51882573be11cb83)
+- [连RabbitMQ的5种核心消息模式都不懂，也敢说自己会用消息队列！](https://juejin.im/post/6844904184920162317)
 
 ## 部署篇
 > mall开发及生产环境的搭建
@@ -127,6 +127,8 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [Docker环境下秒建Redis集群，连SpringBoot也整上了！](https://juejin.im/post/5e81fd1ff265da47e84e5e2c)
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
 - [MongoDB快速入门，掌握这些刚刚好！](https://juejin.im/post/5eb4043cf265da7bf5368276)
+- [Github标星34K+Star，这款开源项目助你秒建Git服务！](https://juejin.im/post/5ecd12076fb9a0479958376b)
+- [连RabbitMQ的5种核心消息模式都不懂，也敢说自己会用消息队列！](https://juejin.im/post/6844904184920162317)
 
 ## 工具篇
 > 一些常用开发工具的使用
@@ -142,6 +144,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [盘点下我用的顺手的那些工具！](https://juejin.im/post/5e5f99c251882549281bfb09)
 - [我用起来顺手的数据库设计工具，这次推荐给大家！](https://juejin.im/post/5ea6d2725188256da20e60ee)
 - [我常用的IDEA插件大公开，个个是精品！](https://juejin.im/post/5eba9a5bf265da7bca50010c)
+- [IDEA同款数据库管理工具，提示太全了，用起来贼香！](https://juejin.im/post/5ed4f2446fb9a047d5645a2b)
 
 
 ## 公众号

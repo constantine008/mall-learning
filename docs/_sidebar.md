@@ -41,7 +41,7 @@
   * [SpringBoot中处理校验逻辑的两种方式，真的很机智！](technology/springboot_validator.md)
   * [使用Redis+AOP优化权限管理功能，这波操作贼爽！](technology/redis_permission.md)
   * [Elasticsearch项目实战，商品搜索功能设计与实现！](technology/product_search.md)
-  * [我常用的自动化部署技巧，贼好用，推荐给大家！](technology/springboot_auto_deploy.md)
+  * [RabbitMQ实现延迟消息居然如此简单，整个插件就完事了！](technology/rabbitmq_delay.md)
 
 * 部署篇
   * [mall在Windows环境下的部署](deploy/mall_deploy_windows.md)
@@ -52,6 +52,7 @@
   * [mall-swarm在Windows环境下的部署](deploy/mall_swarm_deploy_windows.md)
   * [mall-swarm在Linux环境下的部署（基于Docker容器）](deploy/mall_swarm_deploy_docker.md)  
   * [微服务架构下的自动化部署，使用Jenkins来实现！](deploy/mall_swarm_deploy_jenkins.md)  
+  * [我常用的自动化部署技巧，贼好用，推荐给大家！](technology/springboot_auto_deploy.md)
 
 * 进阶篇
   * [Spring Cloud 整体架构概览](cloud/springcloud.md)
@@ -93,6 +94,8 @@
   * [Docker环境下秒建Redis集群，连SpringBoot也整上了！](reference/redis_cluster.md)
   * [Elasticsearch快速入门，掌握这些刚刚好！](reference/elasticsearch_start.md)
   * [MongoDB快速入门，掌握这些刚刚好！](reference/mongodb_start.md)
+  * [Github标星34K+Star，这款开源项目助你秒建Git服务！](reference/gogs_start.md)
+  * [连RabbitMQ的5种核心消息模式都不懂，也敢说自己会用消息队列！](reference/rabbitmq_start.md)
 
 * 工具篇
   * [IDEA常用设置及推荐插件](reference/idea.md)
@@ -106,3 +109,4 @@
   * [盘点下我用的顺手的那些工具！](reference/my_tools.md)
   * [我用起来顺手的数据库设计工具，这次推荐给大家！](reference/navicat_designer.md)
   * [我常用的IDEA插件大公开，个个是精品！](reference/idea_plugins.md)
+  * [IDEA同款数据库管理工具，提示太全了，用起来贼香！](reference/datagrip_start.md)
