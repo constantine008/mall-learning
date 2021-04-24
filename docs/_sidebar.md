@@ -55,6 +55,7 @@
   * [mall-swarm在Windows环境下的部署](deploy/mall_swarm_deploy_windows.md)
   * [mall-swarm在Linux环境下的部署（基于Docker容器）](deploy/mall_swarm_deploy_docker.md)  
   * [微服务架构下的自动化部署，使用Jenkins来实现！](deploy/mall_swarm_deploy_jenkins.md)  
+  * [mall-swarm微服务项目在K8S下的实践！](deploy/mall_swarm_deploy_k8s.md)
   * [我常用的自动化部署技巧，贼好用，推荐给大家！](technology/springboot_auto_deploy.md)
 
 * 进阶篇
@@ -78,6 +79,8 @@
   * [Spring Cloud Alibaba：Sentinel实现熔断与限流](cloud/sentinel.md)
   * [使用Seata彻底解决Spring Cloud中的分布式事务问题](cloud/seata.md)
   * [微服务权限终极解决方案，Spring Cloud Gateway + Oauth2 实现统一认证和鉴权！](cloud/gateway_oauth2.md)
+  * [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](cloud/oauth2_custom.md)
+  * [微服务聚合Swagger文档，这波操作是真的香！](cloud/knife4j_cloud.md)
   
 * 参考篇
   * [开发者必备Mysql命令](reference/mysql.md)
@@ -142,4 +145,8 @@
   * [IDEA同款数据库管理工具，提示太全了，用起来贼香！](reference/datagrip_start.md)
   * [写了100多篇原创文章，我常用的在线工具网站推荐给大家！](reference/my_web_tools.md)
   * [线上项目出BUG没法调试？推荐这款阿里开源的诊断神器！](reference/arthas_start.md)
+  * [被我用烂的DEBUG调试技巧，专治各种搜索不到的问题！](reference/my_debug_skill.md)
+  * [Github标星 8K+，免费又好用的Redis客户端工具！](reference/redis_desktop_start.md)
+  * [Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！](reference/swagger_postman.md)
+  * [干掉Navicat！MySQL官方客户端到底行不行？](reference/mysql_workbench.md)
   

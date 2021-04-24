@@ -6,9 +6,16 @@
 <a href="https://github.com/macrozheng/mall-swarm"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/Cloud%E7%89%88%E6%9C%AC-mall--swarm-brightgreen.svg" alt="SpringCloud版本"></a>
 </p>
 
+## 友情提示
+
+> 1. **快速体验项目**：[在线访问地址](http://www.macrozheng.com/admin/index.html)。
+> 2. **全套学习教程**：[《mall学习教程》](http://www.macrozheng.com/#/README)。
+> 3. **微服务版本**：基于Spring Cloud Hoxton & Alibaba的项目：[mall-swarm](https://github.com/macrozheng/mall-swarm)。
+> 4. **专属学习路线**：学习不走弯路，整理了套非常不错的[《mall专属学习路线》](#公众号)。
+> 5. **项目交流**：想要加群交流项目的朋友，可以加入[mall项目交流群](#公众号)。
+
 ## 简介
-mall学习教程，架构、业务、技术要点全方位解析。mall项目（39k+star）是一套电商系统，使用现阶段主流技术实现。  
-涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
 
 ## 项目地址
 - 后台项目：[https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
@@ -80,6 +87,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [mall-swarm在Windows环境下的部署](deploy/mall_swarm_deploy_windows.md)
 - [mall-swarm在Linux环境下的部署（基于Docker容器）](deploy/mall_swarm_deploy_docker.md)  
 - [微服务架构下的自动化部署，使用Jenkins来实现！](deploy/mall_swarm_deploy_jenkins.md)  
+- [mall-swarm微服务项目在K8S下的实践！](deploy/mall_swarm_deploy_k8s.md)
 - [我常用的自动化部署技巧，贼好用，推荐给大家！](technology/springboot_auto_deploy.md)
 
 
@@ -106,6 +114,8 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [Spring Cloud Alibaba：Sentinel实现熔断与限流](cloud/sentinel.md)
 - [使用Seata彻底解决Spring Cloud中的分布式事务问题](cloud/seata.md)
 - [微服务权限终极解决方案，Spring Cloud Gateway + Oauth2 实现统一认证和鉴权！](cloud/gateway_oauth2.md)
+- [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](cloud/oauth2_custom.md)
+- [微服务聚合Swagger文档，这波操作是真的香！](cloud/knife4j_cloud.md)
 
 ## 参考篇
 > mall相关技术的使用教程
@@ -174,9 +184,15 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [IDEA同款数据库管理工具，提示太全了，用起来贼香！](reference/datagrip_start.md)
 - [写了100多篇原创文章，我常用的在线工具网站推荐给大家！](reference/my_web_tools.md)
 - [线上项目出BUG没法调试？推荐这款阿里开源的诊断神器！](reference/arthas_start.md)
+- [被我用烂的DEBUG调试技巧，专治各种搜索不到的问题！](reference/my_debug_skill.md)
+- [Github标星 8K+，免费又好用的Redis客户端工具！](reference/redis_desktop_start.md)
+- [Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！](reference/swagger_postman.md)
+- [干掉Navicat！MySQL官方客户端到底行不行？](reference/mysql_workbench.md)
 
 ## 公众号
 
-mall项目全套学习教程连载中，**关注公众号**第一时间获取。
+学习不走弯路，关注公众号「**macrozheng**」，回复「**学习路线**」，获取mall项目专属学习路线！
+
+加微信群交流，公众号后台回复「**加群**」即可。
 
 ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)

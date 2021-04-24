@@ -1,4 +1,4 @@
-mall项目全套学习教程连载中，[关注公众号](#公众号)第一时间获取。
+学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # 还在百度Docker命令？推荐一套我用起来特顺手的命令！
 
@@ -109,6 +109,17 @@ docker rmi -f $(docker images)
 ```bash
 # -t 表示指定镜像仓库名称/镜像名称:镜像标签 .表示使用当前目录下的Dockerfile文件
 docker build -t mall/mall-admin:1.0-SNAPSHOT .
+```
+
+### 推送镜像
+
+```bash
+# 登录Docker Hub
+docker login
+# 给本地镜像打标签为远程仓库名称
+docker tag mall/mall-admin:1.0-SNAPSHOT macrodocker/mall-admin:1.0-SNAPSHOT
+# 推送到远程仓库
+docker push macrodocker/mall-admin:1.0-SNAPSHOT
 ```
 
 ## Docker容器常用命令
